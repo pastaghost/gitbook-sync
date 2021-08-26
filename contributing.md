@@ -2,7 +2,6 @@
 
 
 
-```text
 # Contributing to CC Open Source
 
 Thank you for your interest in contributing to CC Open Source! This document is
@@ -34,5 +33,4 @@ guidelines on the Creative Common Open Source website.
 Talk to us on [one of our community forums][community].
 
 [community]:https://opensource.creativecommons.org/community/
-```
 
