@@ -2,7 +2,6 @@
 
 
 
-```text
 # .github
 
 Default templates and guidelines for Creative Commons repositories on GitHub.
@@ -31,5 +30,4 @@ Commons on GitHub][guidelines].
 [feature_request]:.github/ISSUE_TEMPLATE/feature_request.md
 [pull_request]:.github/PULL_REQUEST_TEMPLATE.md
 [guidelines]:https://opensource.creativecommons.org/contributing-code/github-repo-guidelines/
-```
 
